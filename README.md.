@@ -1,0 +1,24 @@
+
+# Book Reading List Application
+
+## About
+A simple web application to manage a personal book reading list.
+
+## Features
+- Add a book title and author name.
+- Mark books as read or unread.
+- Remove books from the list.
+- View the total number of books.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Download or clone this repository.
+2. Open `index.html` in a web browser.
+3. Add books and manage your reading list.
+
+## Project Link
+GitHub: https://github.com/divyanshia294-bot/book-reading-list-application
